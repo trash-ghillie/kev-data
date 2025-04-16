@@ -1,5 +1,8 @@
 # Welcome to kev-data
 
+PLEASE NOTE THIS IS A FORKED COPY FOR REDUNDANT ACCESS TO A DB THAT LOST ITS FUNDING.
+Some schedules and such only apply to the original such as new commit schedules. 
+
 This repository is home to the data files that make up the Known Exploited Vulnerabilities (KEV) catalog. The data is originally sourced from https://www.cisa.gov/known-exploited-vulnerabilities-catalog, which is short linked at https://cisa.gov/kev. 
 
 ## File formats
